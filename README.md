@@ -1,1 +1,1 @@
-### Footsteps detection using Convolutional Neuro Networks
+### Footsteps detection using Convolutional Neural Networks
